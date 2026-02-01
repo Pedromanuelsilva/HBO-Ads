@@ -12,4 +12,6 @@
 ||gmss.use2.prd.api.discomax.com^$important
 ||gcp.amer-free.prd.media.max.com^$important
 ||fly.amer-free.prd.media.max.com
+||akm.amer-free.prd.media.max.com
 /^([^.]+\.)*dnitv\.com$/
+
