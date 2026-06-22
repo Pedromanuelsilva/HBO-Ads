@@ -1,0 +1,18 @@
+# HBO Max Ad/Tracking Blocklist (MikroTik-compatible)
+# Project: HBO/Max Ad & Telemetry Blocking
+# License: Public Domain
+# Expires: 1 day (update frequently)
+# Domain count: 12
+# =================================================================
+0.0.0.0 litix.io
+0.0.0.0 *.litix.io
+0.0.0.0 fwmrm.net
+0.0.0.0 *.fwmrm.net
+0.0.0.0 *.v.fwmrm.net
+0.0.0.0 cf.amer-free.prd.media.max.com
+0.0.0.0 gmss.use2.prd.api.discomax.com
+0.0.0.0 gcp.amer-free.prd.media.max.com
+0.0.0.0 fly.amer-free.prd.media.max.com
+0.0.0.0 akm.amer-free.prd.media.max.com
+0.0.0.0 dnitv.com
+0.0.0.0 *.dnitv.com
